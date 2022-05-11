@@ -1,1 +1,9 @@
 This is the entry  date - 12 may time - 00:13   from Local to Github
+-  created a webhook  by downloading ngrok tool.
+command - 
+ngrok http 8080
+
+It will  show the internet face of your localhost ..
+
+pushing to github - to see if the wekbhook is triggereed automatically ofr this package.
+
