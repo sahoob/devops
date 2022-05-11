@@ -7,3 +7,5 @@ It will  show the internet face of your localhost ..
 
 pushing to github - to see if the wekbhook is triggereed automatically ofr this package.
 
+--got the public host added and authtoken  in to ngrok
+
