@@ -1,0 +1,14 @@
+This is the entry  date - 12 may time - 00:13   from Local to Github
+-  created a webhook  by downloading ngrok tool.
+command - 
+ngrok http 8080
+
+It will  show the internet face of your localhost ..
+
+pushing to github - to see if the wekbhook is triggereed automatically ofr this package.
+
+--got the public host added and authtoken  in to ngrok
+
+file updated today- 21 May 2022
+-- put * * * * * in Build section to pull the SCm in every minutes .
+
