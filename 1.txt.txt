@@ -9,3 +9,7 @@ pushing to github - to see if the wekbhook is triggereed automatically ofr this 
 
 --got the public host added and authtoken  in to ngrok
 
+hello world
+
+commit on 21-may-2022 - * * * * *  in build section SCM poll to run in evry minutes after each code commit.
+
