@@ -8,7 +8,7 @@
   <artifactId>aem-project-archetype</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
-  <name>aem-project-archetype</name>
+  <name>maven-demo</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
