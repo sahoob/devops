@@ -31,3 +31,5 @@ file updated today- 21 May 2022
 >>>>>>> c0b01beab9bfd5c28174766645a9feb4d1fce36c
 
 chnage  today - 23 may 22
+
+change- pushed as docker image - date - 26- may 22
