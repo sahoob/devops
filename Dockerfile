@@ -1,5 +1,5 @@
 FROM openjdk:8
-ADD  target/aem-project-archetype-0.0.1-SNAPSHOT.jar aem-project-archetype.jar
+ADD  target/maven-demo.jar maven-demo.jar
 EXPOSE 8085
-ENTRYPOINT ["java","-jar","/aem-project-archetype.jar"]
+ENTRYPOINT ["java","-jar","/maven-demo.jar"]
 
